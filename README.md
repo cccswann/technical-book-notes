@@ -23,6 +23,6 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 * A Common-Sense Guide to Data Structures and Algorithms by **Jay Wengrow**
 
 
-## How I Take Notes
+## Note Taking Process
 
 Initially, I take notes by hand (either with pen and paper or Apple pencil and iPad). I then transcribe my handwritten notes to text via a Reading Log Tracker created on Notion. During the transcription process, I further summarize and organize my key takeaways from the text. 
