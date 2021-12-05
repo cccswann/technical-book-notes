@@ -20,7 +20,7 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 * Code: The Hidden Language of Computer Hardware and Software by **Charles Petzold**
 * Practical Object-Oriented Design in Ruby by **Sandi Metz**
 * The Pragmatic Programmer by **Andy Hunt** and **Dave Thomas**
-* A Common-Sense Guide to Data Structures and Algorithms by **Jay Wengrow**
+* [A Common-Sense Guide to Data Structures and Algorithms](books/common-sense-guide-dsa.md) by **Jay Wengrow**
 
 
 ## Note Taking Process
