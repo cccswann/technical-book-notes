@@ -9,7 +9,7 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 * Building Git by **James Coglan**
 
 ### Papers
-* [What Every Programmer Should Know About Memory](papers/what-every-programmer.md) by **Ulrich Drepper**, 2007.
+* [What Every Programmer Should Know About Memory](papers/what-every-programmer.md) by **Ulrich Drepper**, 2007. [[link to paper]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ## Completed
 
