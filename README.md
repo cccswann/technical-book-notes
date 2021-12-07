@@ -14,7 +14,7 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 ## Completed
 
 ### Books [Notes to be added shortly]
-* How to Solve It: A New Aspect of Mathematical Method by **George Pólya**
+* [How to Solve It: A New Aspect of Mathematical Method](books/how-to-solve-it.md) by **George Pólya**
 * Structure and Interpretation of Computer Programs by **Gerald Jay Sussman** and **Hal Abelson**
 * The Little Schemer by **Daniel P. Friedman** and **Matthias Felleisen**
 * Code: The Hidden Language of Computer Hardware and Software by **Charles Petzold**
