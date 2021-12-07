@@ -25,4 +25,4 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 
 ## Note Taking Process
 
-Initially, I take notes by hand (either with pen and paper or with an Apple pencil and iPad). I then transcribe my handwritten notes to text via a Reading Log Tracker created in Notion. During the transcription process, I further summarize and organize my key takeaways from the text. 
+Initially, I take notes by hand (either with pen and paper or with an Apple pencil and iPad). I then transcribe my handwritten notes to text via a Reading Log Tracker created in Notion. During the transcription process, I further summarize and organize my key takeaways from the text to create a brief overview of the text. 
