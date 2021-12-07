@@ -2,6 +2,8 @@
 
 Notes I've taken from technical books, articles, and papers I've read or am currently reading. 
 
+**Note:** I'm currently working on getting all my notes (handwritten) together, transcribed, and organized into this repo for quick reference. It might take a bit 😅
+
 ## Currently Reading 📖
 
 ### Books
