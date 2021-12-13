@@ -8,8 +8,7 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 
 ### Books
 * Crafting Interpreters by **Robert Nystrom**
-* Building Git by **James Coglan**
-* Intro to Statistical Learning with Applications in R by **James**, **Witten**, **Hastie**, and **Tibshirani** (precursor to Element of Statistical Learning and The Deep Learning Book)
+* Intro to Statistical Learning with Applications in R by **James**, **Witten**, **Hastie**, and **Tibshirani** (precursor to Elements of Statistical Learning and The Deep Learning Book)
 
 ### Papers
 * What Every Programmer Should Know About Memory by **Ulrich Drepper**, 2007. [[link to paper]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
