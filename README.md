@@ -27,11 +27,11 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 
 ## Want to Read Next 👀
 ### Books
-* The Clean Coder: A Code of Conduct for Professional Programmers by **Robert Cecil Martin**
-* The Art of Computer Programming by **Donald E. Knuth**
-* Computer Systems: A Programmer's Perspective by **Randal Bryant**
 * Concrete Mathematics: A Foundation for Computer Science by **Knuth**, **Graham**, and **Patashnik**
 * The Deep Learning Book by **Ian Goodfellow**, **Yoshua Bengio**, and **Aaron Courville**
+* The Clean Coder: A Code of Conduct for Professional Programmers by **Robert Cecil Martin**
+* Computer Systems: A Programmer's Perspective by **Randal Bryant**
+* The Art of Computer Programming by **Donald E. Knuth**
 
 ## Note Taking Process 📓
 
