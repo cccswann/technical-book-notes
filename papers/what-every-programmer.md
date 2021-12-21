@@ -9,7 +9,8 @@
 * More cost effective to horizontally scale
 * Standardized on a chipset with a **Northbridge** and **Southbridge**
 * All CPUs connected via the **Front Side Bus (FSB)** to Northbridge
-* Northbridge contains memory controller which determines the type of RAM chips used
+* Northbridge contains memory controller which determines the type of RAM chips used (DRAM, Rambus, and SDRAM)
+* Southbridge (I/O Bridge) is in charge of communication via buses like PCI, PCI Express, SATA, and USB buses
 
 ### CPU Caches
 
