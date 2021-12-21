@@ -6,12 +6,16 @@
 * Most solutions to adressing main memory as a bottleneck have been focused on hardware changes
 
 ### Commodity Hardware
+* More cost effective to horizontally scale
+* Standardized on a chipset with a **Northbridge** and **Southbridge**
+* All CPUs connected via the **Front Side Bus (FSB)** to Northbridge
+* Northbridge contains memory controller which determines the type of RAM chips used
 
 ### CPU Caches
 
 ### Virtual Memory
 
-### NUMA Support
+### NUMA (Non Uniform Memory Access) Support
 
 ### What Programmers Can Do
 
