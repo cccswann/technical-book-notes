@@ -11,7 +11,7 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 * Intro to Statistical Learning with Applications in R by **James**, **Witten**, **Hastie**, and **Tibshirani** (precursor to Elements of Statistical Learning and The Deep Learning Book)
 
 ### Papers
-* What Every Programmer Should Know About Memory by **Ulrich Drepper**, 2007. [[link to paper]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [What Every Programmer Should Know About Memory](papers/what-every-programmer.md) by **Ulrich Drepper**, 2007. [[link to paper]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ## Completed 📕
 
@@ -35,4 +35,4 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 
 ## Note Taking Process 📓
 
-Initially, I take notes by hand (either with pen and paper or with an Apple pencil and iPad). I then transcribe my handwritten notes to text via a Reading Log Tracker created in Notion. During the transcription process, I further summarize and organize my key takeaways from the text to create a brief overview of the text. 
+Initially, I take notes by hand (either with pen and paper or an Apple pencil and iPad). I then transcribe my handwritten notes to text via a Reading Log Tracker created in Notion. During the transcription process, I further summarize and organize my key takeaways from the text to create a brief overview of the text. 
