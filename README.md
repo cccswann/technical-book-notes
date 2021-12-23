@@ -32,6 +32,7 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 * The Clean Coder: A Code of Conduct for Professional Programmers by **Robert Cecil Martin**
 * Computer Systems: A Programmer's Perspective by **Randal Bryant**
 * The Art of Computer Programming by **Donald E. Knuth**
+* プログラミングコンテスト攻略のためのアルゴリズムとデータ構造　by **渡部 有隆**, **Ozy(協力)**, **秋葉 拓哉(協力)** (Data Structures & Algorithms for Competitive Programming)
 
 ## Note Taking Process 📓
 
