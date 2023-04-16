@@ -7,8 +7,8 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 ## Currently Reading 📖
 
 ### Books
-* Crafting Interpreters by **Robert Nystrom**
-* Intro to Statistical Learning with Applications in R by **James**, **Witten**, **Hastie**, and **Tibshirani** (precursor to Elements of Statistical Learning and The Deep Learning Book)
+* The Clean Coder: A Code of Conduct for Professional Programmers by **Robert Cecil Martin**
+* Clean Code by **Robert Cecil Martin**
 
 ### Papers
 * [What Every Programmer Should Know About Memory](papers/what-every-programmer.md) by **Ulrich Drepper**, 2007. [[link to paper]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
@@ -24,12 +24,13 @@ Notes I've taken from technical books, articles, and papers I've read or am curr
 * Practical Object-Oriented Design in Ruby by **Sandi Metz**
 * The Pragmatic Programmer by **Andy Hunt** and **Dave Thomas**
 * [A Common-Sense Guide to Data Structures and Algorithms](books/common-sense-guide-dsa.md) by **Jay Wengrow** (handwritten notes)
+* * Crafting Interpreters by **Robert Nystrom**
+* Intro to Statistical Learning with Applications in R by **James**, **Witten**, **Hastie**, and **Tibshirani** (precursor to Elements of Statistical Learning and The Deep Learning Book)
 
 ## Want to Read Next 👀
 ### Books
 * Concrete Mathematics: A Foundation for Computer Science by **Knuth**, **Graham**, and **Patashnik**
 * The Deep Learning Book by **Ian Goodfellow**, **Yoshua Bengio**, and **Aaron Courville**
-* The Clean Coder: A Code of Conduct for Professional Programmers by **Robert Cecil Martin**
 * Computer Systems: A Programmer's Perspective by **Randal Bryant**
 * The Art of Computer Programming by **Donald E. Knuth**
 * プログラミングコンテスト攻略のためのアルゴリズムとデータ構造　by **渡部 有隆**, **Ozy(協力)**, **秋葉 拓哉(協力)** (Data Structures & Algorithms for Competitive Programming)
